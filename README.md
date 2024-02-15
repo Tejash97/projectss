@@ -6,42 +6,52 @@ Hey there! I'm Tejash Mishra, a second-year data science enthusiast on a mission
 ### HOUSE PRICE PREDICTION MODEL
 What's this about? A project where I A project where I built a robust House Price Predictor! It's my solution to the real-world challenge of estimating house prices using the power of data. It's my way of tackling real-world problems using Machine learning algorithm[Linear Regression].
 
-Where's the Code? Right here: [Link to Code].
+Where's the Code? Right here: [[View Code](https://github.com/Tejash97/projectss/blob/7b1c97e19c46690620f94473520ea9b0a5167711/HOUSE%20PRICE%20USING%20LINEAR%20REGRESSION.ipynb)].
 
-### 
+### Time Series Analysis
 What's the Buzz? Another cool project where I [brief description of the purpose]. It's like my coding diary!
 
 Where's the Code? Right here: [Link to Code].
 
 Show Me! Gotchu! See the demo [here](Demo Link).
 
-💡 What I'm Good At
+## What I'm Good At 💡
 I'm diving into:
 
-Data Science Magic
+#### Data Science Magic
 
-ML wizardry
-Predictive spells
-Data tinkering
-Coding Languages
+Machine Learning
 
-Python (my BFF)
-SQL (we're getting along)
-Tools and Toys
+Predictive Modeling
 
-TensorFlow (cool stuff)
-PyTorch (still figuring it out)
-Scikit-Learn (classic)
-📚 Learning Ground
-Currently rocking [Your Degree] at [Your University/Institution], graduating in [Year]. Learning, experimenting, and coding my way through!
+Data Analysis
 
-🌐 Let's Connect
-[LinkedIn]: Fancy connecting? Let's do it!
+#### Programming Languages
+
+Python
+
+SQL
+
+Power BI
+
+R Programming
+
+TensorFlow 
+
+Scikit-Learn
+
+### Learning Ground 📚
+Currently rocking Bsc Data Science at Techno India University, graduating in August,2025. Learning, experimenting, and coding my way through!
+
+### Let's Connect 🌐
+[[LinkedIn](https://www.linkedin.com/in/tejash-mishra-053361256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )]: Fancy connecting? Let's do it!
+
 [Portfolio Website]: If you're curious, check out my website.
-📬 Holler at Me
-Got questions, ideas, or just wanna chat? Shoot me an email at [Your Email Address]. Excited for what's ahead!
+
+## Holler at Me 📬
+Got questions, ideas, or just wanna chat? Shoot me an email at mishratejash97@gmail.com. Excited for what's ahead!
 
 Dive into the code, explore the projects, and let's geek out together. Thanks for dropping by!
 
-Stay curious,
-[Your Name] 🌟
+## Stay curious,
+### Tejash Mishra 🌟
