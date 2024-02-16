@@ -9,11 +9,10 @@ What's this about? A project where I A project where I built a robust House Pric
 Where's the Code? Right here: [[View Code](https://github.com/Tejash97/projectss/blob/7b1c97e19c46690620f94473520ea9b0a5167711/HOUSE%20PRICE%20USING%20LINEAR%20REGRESSION.ipynb)].
 
 ### Time Series Analysis
-What's the Buzz? Another cool project where I [brief description of the purpose]. It's like my coding diary!
 
-Where's the Code? Right here: [Link to Code].
+### Heart Disease Prediction
 
-Show Me! Gotchu! See the demo [here](Demo Link).
+##### you can see the code above in the repository
 
 ## What I'm Good At 💡
 I'm diving into:
