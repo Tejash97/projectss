@@ -3,18 +3,20 @@
 Hey there! I'm Tejash Mishra, a second-year data science enthusiast on a mission to turn data into insights. I study at Techno India University, and this GitHub repository is my playground where I experiment, learn, and showcase what I can do with code and data.
 
 # 🚀 Cool Projects Inside
-### HOUSE PRICE PREDICTION MODEL
+### HOUSE PRICE PREDICTION MODEL 🏡
 
-### TIME SERIES ANALYSIS
+### TIME SERIES ANALYSIS 📈
 
-### HEART DISEASE PREDICTION
+### HEART DISEASE PREDICTION 🩺
+
+### LOAN STATUS APPROVAL 🌐
 
 ##### you can see the code above in the repository
 
 ## What I'm Good At 💡
 I'm diving into:
 
-#### Data Science Magic
+#### Data Science Magic ✨
 
 Machine Learning
 
