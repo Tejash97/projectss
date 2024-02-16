@@ -4,13 +4,10 @@ Hey there! I'm Tejash Mishra, a second-year data science enthusiast on a mission
 
 # 🚀 Cool Projects Inside
 ### HOUSE PRICE PREDICTION MODEL
-What's this about? A project where I A project where I built a robust House Price Predictor! It's my solution to the real-world challenge of estimating house prices using the power of data. It's my way of tackling real-world problems using Machine learning algorithm[Linear Regression].
 
-Where's the Code? Right here: [[View Code](https://github.com/Tejash97/projectss/blob/7b1c97e19c46690620f94473520ea9b0a5167711/HOUSE%20PRICE%20USING%20LINEAR%20REGRESSION.ipynb)].
+### TIME SERIES ANALYSIS
 
-### Time Series Analysis
-
-### Heart Disease Prediction
+### HEART DISEASE PREDICTION
 
 ##### you can see the code above in the repository
 
